@@ -1,12 +1,10 @@
 {
-    "name": "husseindowi/discussion-forum",
-    "description": "This demo package will creaet a discussion forum",
+    "name": "husseindowi/calculator",
     "authors": [
         {
             "name": "husseindowi11",
             "email": "hseneldowi@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
