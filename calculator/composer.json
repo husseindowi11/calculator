@@ -1,0 +1,12 @@
+{
+    "name": "husseindowi/discussion-forum",
+    "description": "This demo package will creaet a discussion forum",
+    "authors": [
+        {
+            "name": "husseindowi11",
+            "email": "hseneldowi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
